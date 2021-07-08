@@ -1,7 +1,7 @@
 # Fractal Tree
  A javascript project to make a fractal tree 
  
- **Try it out here :** https://sanskarjaiswal2001.github.io/Fractal-Tree/
+ **Try it out here :** [Fractal Tree](https://sanskarjaiswal2001.github.io/Fractal-Tree/)
  
 **Screenshot :**
 
